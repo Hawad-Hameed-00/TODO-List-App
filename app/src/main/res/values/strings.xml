@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="search">Search tasks</string>
+    <string name="fab">FAB</string>
+</resources>
