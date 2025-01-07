@@ -16,7 +16,9 @@ A simple and intuitive To-Do List app built with **Kotlin** using **Room Databas
 
 ## Screenshots
 
-
+![First Screenshot](screenshots/ss1.jpeg)
+![Second Screenshot](screenshots/ss2.jpeg)
+![Third Screenshot](screenshots/ss3.jpeg)
 
 
 ---
